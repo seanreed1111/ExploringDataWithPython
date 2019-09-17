@@ -21,7 +21,7 @@ These lessons have been prepared by **Steve Elston**, co-founder and principle c
 
 This notebook was constructed using the Anaconda 3.5 Python distribution. If you are not running version Anaconda 3.5 or higher, we suggest you update your Anaconda distribution now.  You can download the Python 3 Anaconda distribution for your operating system from the [Continum Analytics web site](https://www.continuum.io
 
-Run ``conda install pandas numpy seaborn`` from your terminal or Anaconda Prompt.
+Run ``conda install pandas numpy seaborn matplotlib -y`` from your terminal or Anaconda Prompt.
 
 
 
